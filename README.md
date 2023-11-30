@@ -7,6 +7,14 @@
 
 - 📫 How to reach me **adhikarypoorvaraja@gmail.com**
 
+### Wanna listen to what I am listening to ? :)  
+
+<div align=center> 
+  
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31fvgj5lte57nrqjtaghu2tslbd4&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31fvgj5lte57nrqjtaghu2tslbd4&redirect=true)
+  
+</div>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/poorva-adhikary-367458256/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="poorva adhikary" height="30" width="40" /></a>
