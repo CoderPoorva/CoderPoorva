@@ -3,6 +3,12 @@
 <h1 align="center">Hi 👋, I'm Poorva Adhikary</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+![ ](https://komarev.com/ghpvc/?username=CoderPoorva&color=blue)
+</a>
+<a href="https://github.com/CoderPoorva?tab=followers"><img src="https://img.shields.io/github/followers/CoderPoorva?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href ="https://metrics.lecoq.io/insights/CoderPoorva"><img src="https://img.shields.io/badge/-informational?&label=GitHub+Metrics&style=social"/></a>
+</p>
+
 - 🌱 I’m currently learning **Flutter | Dart | Advanced JAVA | C++**
 
 - 📫 How to reach me **adhikarypoorvaraja@gmail.com**
